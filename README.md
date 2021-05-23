@@ -9,6 +9,8 @@
 
 
 - 😄 My Pronouns: He/Him   
+- 🌱 I’m currently learning Nodejs - Google Cloud Functions
+- 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about: Flutter 
 - 📫 How to reach me: [@markdiesta](https://twitter.com/markdiesta)
 - ⚡ Fun fact: I enjoy video games!
@@ -16,8 +18,7 @@
 
 ## <h3 align="left">GitHub Stats</h3>
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=madz&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madz&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=madz&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=madz&theme=dark&hide_border=true" width = 400>
+</p>
