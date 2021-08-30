@@ -9,7 +9,7 @@
 
 
 - 😄 My Pronouns: He/Him   
-- 🌱 I’m currently learning Nodejs - Google Cloud Functions
+- 🌱 I’m currently learning Blockchain development and smart contracts.
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about: Flutter 
 - 📫 How to reach me: [@markdiesta](https://twitter.com/markdiesta)
