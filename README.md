@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about: Flutter 
 - 📫 How to reach me: [@markdiesta](https://twitter.com/markdiesta)
-- ⚡ Fun fact: I enjoy video games!
+- ⚡ Fun fact: I enjoy NFT games!
 
 
 ## <h3 align="left">GitHub Stats</h3>
