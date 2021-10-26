@@ -8,9 +8,8 @@
 ✨ I'm a frontend engineer and freelancer passionate about making the web and mobile accessible to everyone.
 
 
-- 😄 My Pronouns: He/Him   
 - 🌱 I’m currently learning Blockchain development and smart contracts.
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 👯 I’m looking to collaborate on Blockchain/DEFI development
 - 💬 Ask me about: Flutter 
 - 📫 How to reach me: [@markdiesta](https://twitter.com/markdiesta)
 - ⚡ Fun fact: I enjoy NFT games!
