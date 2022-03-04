@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate on Blockchain/DEFI development
 - 💬 Ask me about: Flutter 
 - 📫 How to reach me: [@markdiesta](https://twitter.com/markdiesta)
-- ⚡ Fun fact: I enjoy NFT games!
 
 
 ## <h3 align="left">GitHub Stats</h3>
