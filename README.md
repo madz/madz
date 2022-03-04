@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ I'm a frontend engineer and freelancer passionate about making the web and mobile accessible to everyone.
+✨ I'm a Flutter developer and freelancer passionate about making the web and mobile accessible to everyone.
 
 
 - 🌱 I’m currently learning Blockchain development and smart contracts.
