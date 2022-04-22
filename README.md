@@ -8,8 +8,8 @@
 ✨ I'm a Flutter developer and freelancer passionate about making the web and mobile accessible to everyone.
 
 
-- 🌱 I’m currently learning Blockchain development and smart contracts.
-- 👯 I’m looking to collaborate on Blockchain/DEFI development
+- 🌱 I’m currently learning Blockchain and smart contracts development.
+- 👯 I’m looking to collaborate on Blockchain/Dapps development
 - 💬 Ask me about: Flutter 
 - 📫 How to reach me: [@markdiesta](https://twitter.com/markdiesta)
 
