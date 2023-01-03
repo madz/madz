@@ -5,13 +5,21 @@
 </p>
 
 ---
-✨ I'm a Flutter developer and freelancer passionate about making the web and mobile accessible to everyone.
+➮ I'm a Flutter developer and freelancer passionate about making the web and mobile accessible to everyone.
 
+➮ I’m currently learning API development using NodeJS/Typescript and Express/NestJS.
 
-- 🌱 I’m currently learning Blockchain and smart contracts development.
-- 👯 I’m looking to collaborate on Blockchain/Dapps development
-- 💬 Ask me about: Flutter 
-- 📫 How to reach me: [@markdiesta](https://twitter.com/markdiesta)
+➮ I prefer Clean Code Architecture, for the folder & file structure.
+
+➮ In addition to that, I use Provider, or BLoC package for app state management.
+
+➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Supabase.
+
+➮ Depending on the project requirement, I use `shared_preferences`, `hive` or `hydarated_bloc` for local data storage.
+
+➮ Ask me about: Flutter 
+
+➮ How to reach me: [@markdiesta](https://twitter.com/markdiesta)
 
 
 ## <h3 align="left">GitHub Stats</h3>
