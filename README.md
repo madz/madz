@@ -7,7 +7,7 @@
 ---
 ➮ I'm a Flutter developer and freelancer passionate about making the web and mobile accessible to everyone.
 
-➮ I’m currently learning API development using NodeJS/Typescript togetther with Express/NestJS as well as Python/FastAPI.
+➮ I’m currently learning API development using NodeJS/Typescript together with NestJS as well as Python and FastAPI.
 
 ➮ I prefer Clean Code Architecture, for the folder & file structure.
 
