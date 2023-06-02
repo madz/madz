@@ -1,5 +1,4 @@
 
-<h3 align="center">👋 Hi there! I'm Mark Diesta</h3>
 <p align="center">
   <a href="https://twitter.com/markdiesta">Twitter</a>
 </p>
