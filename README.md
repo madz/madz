@@ -14,8 +14,6 @@
 
 ➮ Ask me about: Flutter 
 
-➮ How to reach me: [@markdiesta](https://twitter.com/markdiesta)
-
 
 ## <h3 align="left">GitHub Stats</h3>
 
