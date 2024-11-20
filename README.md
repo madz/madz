@@ -1,8 +1,4 @@
 
-<p align="center">
-  <a href="https://twitter.com/markdiesta">Twitter</a>
-</p>
-
 ---
 ➮ I'm a Flutter developer and freelancer passionate about making the web and mobile accessible to everyone.
 
